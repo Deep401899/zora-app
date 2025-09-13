@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zora - Your Stylish E-Commerce App</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 40px; line-height: 1.6; color: #333; }
+        .logo { font-size: 2.5em; font-weight: bold; color: #238636; margin-bottom: 20px; }
+        .download-btn { background-color: #238636; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; display: inline-block; margin: 20px 0; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <div class="logo">ZORA</div>
+    <h1>Discover a World of Style and Convenience</h1>
+    <p>Zora is your premier e-commerce destination for curated fashion, electronics, and lifestyle products. Enjoy a seamless shopping experience with secure payments, fast delivery, and great deals.</p>
+
+    <h2>Download the App Today!</h2>
+    <p>Available on Google Play and the Indus Appstore.</p>
+    <!-- You can add download links here later when your app is live -->
+
+    <h3>Contact Us</h3>
+    <p>Email: deeppaul3538@gmail.com</p>
+    <p>Phone: +91 9395715961</p>
+
+    <p>
+        <a href="https://deep401899.github.io/privacy-requests/">Privacy Policy</a>
+    </p>
+
+</body>
+</html>
